@@ -1,0 +1,22 @@
+img {
+    display: none;
+}
+header{
+    background-color: rgb(212, 207, 207);
+}
+header h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+header a{
+    background-color: rgb(150, 144, 144);
+    color: rgb(0, 0, 0);
+}
+main section h2{
+    text-transform: uppercase;
+    color: rgb(52, 50, 182);
+}
+main section{
+    background-color: rgb(95, 92, 92);
+}
